@@ -20,6 +20,12 @@ namespace MyCprojectDemo
 
             Console.WriteLine("test commit from dev branch ?");
 
+            Console.WriteLine("there is so many work to do ,come on");
+
+            Console.WriteLine("there is so many work to do ,come on  forget commit");
+
+
+
         }
     }
 }
