@@ -16,7 +16,7 @@ namespace MyCprojectDemo
 
             Console.WriteLine("up is wrong,because i forgot to commit ,the content is the same!");
 
-            Console.WriteLine("test commit from dev branch ");
+            Console.WriteLine("test commit from dev branch ?");
 
         }
     }
