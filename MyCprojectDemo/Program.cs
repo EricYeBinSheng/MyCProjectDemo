@@ -18,6 +18,8 @@ namespace MyCprojectDemo
 
             Console.WriteLine("now test in feature branch ");
 
+            Console.WriteLine("test commit from dev branch ?");
+
         }
     }
 }
